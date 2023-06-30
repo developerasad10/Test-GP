@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.asadkhan.testgp'
+    namespace 'com.khanempire.mymusicpro'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.asadkhan.testgp"
+        applicationId "com.khanempire.mymusicpro"
         minSdk 19
         targetSdk 33
         versionCode 1

@@ -1,4 +1,4 @@
-package com.asadkhan.testgp;
+package com.khanempire.mymusicpro;
 
 import org.junit.Test;
 
